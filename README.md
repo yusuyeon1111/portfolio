@@ -39,8 +39,7 @@
 	<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/>
 	<img src="https://img.shields.io/badge/python-776AB?style=flat&logo=python&logoColor=white"/>
 </div>
->  
->[프로젝트 상세 설명]
+
 <details>
 <summary><b>핵심 기능 설명 펼치기</b></summary>
  <div markdown="1>
