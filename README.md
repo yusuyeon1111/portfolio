@@ -62,7 +62,7 @@
    
 [🔍](https://github.com/2023-SMHRD-IS-CLOUD-1/1stProject/blob/c01013df001193fbb4c00e65eb206ceccf58d18b/FirstProject_Whip/src/main/java/com/smhrd/controller/Err_readService.java#L18)
 <br/>
-2) 검색창 : 검색 기능을 통해 사용자가 원하는 심부름 신청글을 제목과 작성자를 기준으로 검색 가능
+2) 검색창 : 검색 기능을 통해 사용자가 원하는 심부름 신청글을 제목과 작성자를 기준으로 검색 가능<br/>
    
 [🔍](https://github.com/2023-SMHRD-IS-CLOUD-1/1stProject/blob/c01013df001193fbb4c00e65eb206ceccf58d18b/FirstProject_Whip/src/main/java/com/smhrd/controller/Err_searchService.java#L18)
    <br/>
