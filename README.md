@@ -66,14 +66,17 @@
    
 [🔍](https://github.com/2023-SMHRD-IS-CLOUD-1/1stProject/blob/c01013df001193fbb4c00e65eb206ceccf58d18b/FirstProject_Whip/src/main/java/com/smhrd/controller/Err_searchService.java#L18)
    <br/>
-   
+
 3) 심부름 요청 글 작성 페이지로 이동
 
 
 4) 심부름 글의 상세 내용을 확인할 수 있는 기능, 다른 사용자가 열람 가능.
 
-[🔍](https://github.com/2023-SMHRD-IS-CLOUD-1/1stProject/blob/c01013df001193fbb4c00e65eb206ceccf58d18b/FirstProject_Whip/src/main/java/com/smhrd/controller/Err_detailService.java#L18)<br/>
-
+[글 상세보기🔍](https://github.com/2023-SMHRD-IS-CLOUD-1/1stProject/blob/c01013df001193fbb4c00e65eb206ceccf58d18b/FirstProject_Whip/src/main/java/com/smhrd/controller/Err_detailService.java#L18)<br/>
+[글 수정🔍](https://github.com/2023-SMHRD-IS-CLOUD-1/1stProject/blob/c01013df001193fbb4c00e65eb206ceccf58d18b/FirstProject_Whip/src/main/java/com/smhrd/controller/ErrmodifyService.java#L15)
+<br/>
+[글 삭제🔍](https://github.com/2023-SMHRD-IS-CLOUD-1/1stProject/blob/c01013df001193fbb4c00e65eb206ceccf58d18b/FirstProject_Whip/src/main/java/com/smhrd/controller/ErrdeleteService.java#L15)
+<br/>
 5) 신청 버튼 클릭시 신청되며 신청인의 수행인 신청 목록 확인 서비스에서 확인 가능
    
 [🔍](https://github.com/2023-SMHRD-IS-CLOUD-1/1stProject/blob/c01013df001193fbb4c00e65eb206ceccf58d18b/FirstProject_Whip/src/main/java/com/smhrd/controller/Err_matchService.java#L20)
@@ -83,19 +86,19 @@
 ![image](https://github.com/yusuyeon1111/sample/assets/142488306/3e7a3b69-9e93-411c-904e-1df81ba40895)
 
 1)  검색창 : 검색 기능을 통해 사용자가 원하는 문의글을 제목과 작성자를 기준으로 검색 가능
-   
+[🔍](https://github.com/2023-SMHRD-IS-CLOUD-1/1stProject/blob/c01013df001193fbb4c00e65eb206ceccf58d18b/FirstProject_Whip/src/main/java/com/smhrd/controller/Man_searchService.java#L21)
 <br/>   
 
 2) 문의글 작성 페이지로 이동
 
-[🔍](https://github.com/2023-SMHRD-IS-CLOUD-1/1stProject/blob/c01013df001193fbb4c00e65eb206ceccf58d18b/FirstProject_Whip/src/main/java/com/smhrd/controller/ComUploadService.java#L15)
+[🔍](https://github.com/2023-SMHRD-IS-CLOUD-1/1stProject/blob/c01013df001193fbb4c00e65eb206ceccf58d18b/FirstProject_Whip/src/main/java/com/smhrd/controller/ManagePostService.java#L15)
  
 3) 문의글 상세 내용을 확인할 수 있는 기능
 
 [🔍](https://github.com/2023-SMHRD-IS-CLOUD-1/1stProject/blob/c01013df001193fbb4c00e65eb206ceccf58d18b/FirstProject_Whip/src/main/java/com/smhrd/controller/Manage_detailService.java#L21)
    <br/>
    
-4) 관리자의 답변 여부를 확인할 수 있는 태그<br/>
+4) 관리자 답변여부 확인 가능<br/>
 
 5) 관리자 계정을 생성해, 관리자 계정으로 로그인 시, 고객센터 문의글에 답변할 수 있는 기능
 
