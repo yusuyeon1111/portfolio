@@ -4,7 +4,7 @@
 </br>
 
 ## :pushpin: Intro
-- Back-end 개발자를 희망합니다
+- Front-end 개발자를 희망합니다
 
 </br>
 
@@ -18,43 +18,50 @@
 
 ---
 
-### 1. [실전 프로젝트]([https://github.com/JungHyung2/gitio.io](https://github.com/2023-SMHRD-IS-CLOUD-1/Letmein-front)
-## [백엔드](https://github.com/2023-SMHRD-IS-CLOUD-1/Letmein.git)
+### 1. [실전 프로젝트](https://github.com/2023-SMHRD-IS-CLOUD-1/Letmein-front)
+#### [백엔드](https://github.com/2023-SMHRD-IS-CLOUD-1/Letmein.git)
 
->세 번째 프로젝트 간략 소개  (개인 프로젝트)  
->개발 기간: 2018.1.18 ~ 2018.4.5  
->  
->기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
+> Letmein (팀 프로젝트) 
+>개발 기간: 2024.2.1 ~ 2024.2.27 (개발중)  
+> Front-end + Back-end
+> 
+> 프로젝트 설명
+> 
+> - YOLO기반 체형확인 및 패션 스타일러 입니다
+> - 커뮤니티에 코디 사진을 업로드 할 수 있습니다!
+> - 체형 사진을 업로드해 체형 기반 아바타를 생성해 코디를 해볼 수 있습니다!
+> - 사진대신 사이즈를 입력한 아바타 생성도 가능합니다! 
+<div align="center">
+	<P>기술스택</P>
+	<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+	<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+	<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+	<img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"/>
+	<img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+	<img src="https://img.shields.io/badge/amazons3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+</div>
 >  
 >[프로젝트 상세 설명]
 
 ### 2. [핵심 프로젝트](https://github.com/2023-SMHRD-IS-CLOUD-1/1stProject.git)
 >HEF  (팀 프로젝트)  
->개발 기간: 2023.11.22 ~ 2020.12.8
+>개발 기간: 2023.11.22 ~ 2023.12.8
+>
 > Front-end + Back-end
+>
 >프로젝트 설명
 > - 게시판 기반 심부름 매칭 서비스 입니다!<br/>
 > - OCR로 신분증 인증이 가능합니다!<br/>
 > - 커뮤니티로 소통할 수 있습니다!<br/>
->기술 스택:  
 <div align="center">
-	<P>🎇platforms & languages </P>
-	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-	<img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
-	<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
+	<P>기술스택 </P>
+	<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" />
+	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" />
+	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" />
+	<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+	<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
 </div>
-<div align="center">
-	<P>🔨Tools</P>
-	<img src="https://img.shields.io/badge/eclipseide-525C86?style=flat&logo=eclipseide&logoColor=white"/>
-	<img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
-	<img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=white"/>
-	<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/>
-	<img src="https://img.shields.io/badge/python-776AB?style=flat&logo=python&logoColor=white"/>
-</div>
+
 
 <details>
 <summary><b>핵심 기능 설명 펼치기</b></summary>
