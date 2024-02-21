@@ -72,6 +72,8 @@
 <br/>
 이메일 인증을 위해 이메일 API인 email.js를 사용했습니다. <br/>
 ![image](https://github.com/yusuyeon1111/portfolio/assets/142488306/deb5ca66-6f01-4579-b827-d50302f7055c)
+
+
 [코드 보러 가기](https://github.com/2023-SMHRD-IS-CLOUD-1/Letmein-front/blob/05e84843bfaef66c4b6417432049e14dc2a611a1/src/components/Join.jsx#L23)
 
 <br/>
