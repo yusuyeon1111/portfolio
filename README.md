@@ -18,9 +18,22 @@
 
 ---
 
-### 1. [핵심 프로젝트](https://github.com/2023-SMHRD-IS-CLOUD-1/1stProject.git)
+### 1. [실전 프로젝트]([https://github.com/JungHyung2/gitio.io](https://github.com/2023-SMHRD-IS-CLOUD-1/Letmein-front)
+## [백엔드](https://github.com/2023-SMHRD-IS-CLOUD-1/Letmein.git)
+
+>세 번째 프로젝트 간략 소개  (개인 프로젝트)  
+>개발 기간: 2018.1.18 ~ 2018.4.5  
+>  
+>기술 스택:  
+>Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
+>H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
+>  
+>[프로젝트 상세 설명]
+
+### 2. [핵심 프로젝트](https://github.com/2023-SMHRD-IS-CLOUD-1/1stProject.git)
 >HEF  (팀 프로젝트)  
->개발 기간: 2023.11.22 ~ 2020.12.8  
+>개발 기간: 2023.11.22 ~ 2020.12.8
+> Front-end + Back-end
 >프로젝트 설명
 > - 게시판 기반 심부름 매칭 서비스 입니다!<br/>
 > - OCR로 신분증 인증이 가능합니다!<br/>
@@ -108,14 +121,4 @@
 
 [🔍](https://github.com/2023-SMHRD-IS-CLOUD-1/1stProject/blob/c01013df001193fbb4c00e65eb206ceccf58d18b/FirstProject_Whip/src/main/java/com/smhrd/controller/Manage_answerService.java#L16)    
 ---
-
-### 3. [세 번째 프로젝트](https://github.com/JungHyung2/gitio.io)
->세 번째 프로젝트 간략 소개  (개인 프로젝트)  
->개발 기간: 2018.1.18 ~ 2018.4.5  
->  
->기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
->  
->[프로젝트 상세 설명]
 
