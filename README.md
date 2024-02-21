@@ -44,7 +44,7 @@
  <br/>
  <br/>
 <details>
-  <summary>핵심 기능 설명 펼치기</summary>
+  <summary>핵심 기능 화면</summary>
 	
   #### 1. 메인 페이지
 ![-Clipchamp1-ezgif com-crop](https://github.com/yusuyeon1111/portfolio/assets/142488306/b772f05a-17c3-4224-8e8e-9300b08a39ea)
@@ -65,7 +65,9 @@
  ![image](https://github.com/yusuyeon1111/portfolio/assets/142488306/919ebf59-9f54-4013-976c-cf189de56682)
 
 </details>
-
+<details>
+	<summary>핵심 기능 코드 설명 펼치기</summary>
+</details>
 
 ---
 
