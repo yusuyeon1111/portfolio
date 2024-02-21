@@ -24,7 +24,8 @@
 > Letmein (팀 프로젝트) 
 >개발 기간: 2024.2.1 ~ 2024.2.27 (개발중)  
 > Front-end + Back-end
-> 
+> 프로젝트 기여도 50%
+> 팀원 3명 (PM, 모델링, Front-end+Back-end)
 > 프로젝트 설명
 > 
 > - YOLO기반 체형확인 및 패션 스타일러 입니다
@@ -40,8 +41,33 @@
 	<img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 	<img src="https://img.shields.io/badge/amazons3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
 </div>
->  
->[프로젝트 상세 설명]
+ <br/>
+ <br/>
+<details>
+  <summary>핵심 기능 설명 펼치기</summary>
+	
+  #### 1. 메인 페이지
+![-Clipchamp1-ezgif com-crop](https://github.com/yusuyeon1111/portfolio/assets/142488306/b772f05a-17c3-4224-8e8e-9300b08a39ea)
+ #### 2. 로그인 / 회원가입
+![-Clipchamp2-ezgif com-video-to-gif-converter](https://github.com/yusuyeon1111/portfolio/assets/142488306/e8c78fed-0cff-4399-a472-f6997ebfd03c)
+ #### 3. 커뮤니티
+ ![-Clipchamp3-ezgif com-video-to-gif-converter](https://github.com/yusuyeon1111/portfolio/assets/142488306/b5dfbf08-3f8d-4344-bc32-18f00510663f)
+ #### 4. 마이페이지
+  ![-Clipchamp5-ezgif com-video-to-gif-converter](https://github.com/yusuyeon1111/portfolio/assets/142488306/3d90494b-3cd9-4401-8763-cca21fa97364)
+ #### 5. 이미지 업로드 체형 분석 페이지
+![-Clipchamp6-ezgif com-video-to-gif-converter](https://github.com/yusuyeon1111/portfolio/assets/142488306/275a7a94-302d-44cf-bf7c-bb4875c91fef)
+ #### 6. 결과페이지 및 아바타 페이지
+ ![-Clipchamp-ezgif com-video-to-gif-converter](https://github.com/yusuyeon1111/portfolio/assets/142488306/3972e13a-692e-49a1-8f01-f69ae48a1a1b)
+ #### 7. 사이즈 입력 체형 분석 페이지
+![-Clipchamp-ezgif com-video-to-gif-converter (1)](https://github.com/yusuyeon1111/portfolio/assets/142488306/8c4281f9-add2-4b30-b070-0715ef63c74d)
+
+ #### 8. 관리자 페이지
+ ![image](https://github.com/yusuyeon1111/portfolio/assets/142488306/919ebf59-9f54-4013-976c-cf189de56682)
+
+</details>
+
+
+---
 
 ### 2. [핵심 프로젝트](https://github.com/2023-SMHRD-IS-CLOUD-1/1stProject.git)
 >HEF  (팀 프로젝트)  
@@ -65,8 +91,7 @@
 
 <details>
 <summary><b>핵심 기능 설명 펼치기</b></summary>
- <div markdown="1>
-	 
+
  #### 1. 전체 흐름
 ![image](https://github.com/yusuyeon1111/sample/assets/142488306/fb8c738f-39f2-4bde-8ffb-b62c8f893d55)
 1. 의뢰인이 심부름 의뢰글을 작성합니다
@@ -128,4 +153,4 @@
 
 [🔍](https://github.com/2023-SMHRD-IS-CLOUD-1/1stProject/blob/c01013df001193fbb4c00e65eb206ceccf58d18b/FirstProject_Whip/src/main/java/com/smhrd/controller/Manage_answerService.java#L16)    
 ---
-
+  </details>
