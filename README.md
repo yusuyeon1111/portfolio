@@ -1,5 +1,5 @@
 # 유수연 포트폴리오
-
+성장을 추구하는 인재 유수연입니다.
 
 </br>
 
@@ -66,7 +66,28 @@
 
 </details>
 <details>
-	<summary>핵심 기능 코드 설명 펼치기</summary>
+	<summary>트러블 슈팅</summary>
+	#### 1. 이메일 API 사용
+	이메일 인증을 위해 이메일 API인 email.js를 사용했습니다. 
+	![image](https://github.com/yusuyeon1111/portfolio/assets/142488306/deb5ca66-6f01-4579-b827-d50302f7055c)
+
+	#### 2. 무한 스크롤 기능 구현
+	모바일 환경에 최적화를 위해 게시판 형식의 기본 페이징이 아닌, 무한 스크롤 방식을 사용함.
+ 	기존의 페이징은 offset과 limit을 사용해서 페이징할 범위를 정하지만, 이 방식은 초반에는 효율이 나쁘지 않지만 뒤로 갈수록 효율이 급격히 떨어진다는 단점이 있어 사용하지 않고, JPA의 pageable 기능을 사용해 구현했습니다.
+
+ spring Boot 
+ @post controller
+ ![image](https://github.com/yusuyeon1111/portfolio/assets/142488306/65c1da60-66a0-452a-9d12-e09afb0673b0)
+ ![image](https://github.com/yusuyeon1111/portfolio/assets/142488306/e83e393c-8f3c-45c5-ba89-ef1f814407f9)
+
+React https://github.com/2023-SMHRD-IS-CLOUD-1/Letmein-front/blob/05e84843bfaef66c4b6417432049e14dc2a611a1/src/components/CommunityMasonry.jsx#L76
+useInview를 활용하여 페이지 끝에 도달할 시 페이지 넘버를 증가시켜 로드 했습니다.
+![image](https://github.com/yusuyeon1111/portfolio/assets/142488306/f97031a6-9097-4960-a890-b45568d24586)
+페이지넘버를 get방식으로 요청해 이미지를 로드 하였습니다.
+![image](https://github.com/yusuyeon1111/portfolio/assets/142488306/acf1d653-b0b1-471f-ae06-410840c1216f)
+
+ [느낀점]
+ JPA를 처음 사용하다 보니 어려움을 겪었으나 수많은 시행착오와 구글링을 통해 구현할 수 있었습니다. 또한 JPA에 대한 이해도를 올릴 수 있었습니다.
 </details>
 
 ---
