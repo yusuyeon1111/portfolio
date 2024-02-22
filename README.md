@@ -22,10 +22,14 @@
 #### [백엔드](https://github.com/2023-SMHRD-IS-CLOUD-1/Letmein.git)
 
 > Letmein (팀 프로젝트) 
->개발 기간: 2024.2.1 ~ 2024.2.27 (개발중)  
+>개발 기간: 2024.2.1 ~ 2024.2.27 (개발중)
+> 
 > Front-end + Back-end
+> 
 > 프로젝트 기여도 50%
+> 
 > 팀원 3명 (PM, 모델링, Front-end+Back-end)
+> 
 > 프로젝트 설명
 > 
 > - YOLO기반 체형확인 및 패션 스타일러 입니다
