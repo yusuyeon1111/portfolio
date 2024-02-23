@@ -51,7 +51,7 @@
   <summary>핵심 기능 화면</summary>
 	
   #### 1. 메인 페이지
-![-Clipchamp1-ezgif com-crop](https://github.com/yusuyeon1111/portfolio/assets/142488306/b772f05a-17c3-4224-8e8e-9300b08a39ea)
+![제목 없는 동영상 - Clipchamp로 제작](https://github.com/yusuyeon1111/portfolio/assets/142488306/e94a754c-fa5c-4b7a-b925-be1531f704f0)
  #### 2. 로그인 / 회원가입
 ![-Clipchamp2-ezgif com-video-to-gif-converter](https://github.com/yusuyeon1111/portfolio/assets/142488306/e8c78fed-0cff-4399-a472-f6997ebfd03c)
  #### 3. 커뮤니티
