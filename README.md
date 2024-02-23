@@ -63,7 +63,7 @@
  #### 6. 결과페이지 및 아바타 페이지
  ![-Clipchamp-ezgif com-video-to-gif-converter](https://github.com/yusuyeon1111/portfolio/assets/142488306/3972e13a-692e-49a1-8f01-f69ae48a1a1b)
  #### 7. 사이즈 입력 체형 분석 페이지
-![-Clipchamp-ezgif com-video-to-gif-converter (1)](https://github.com/yusuyeon1111/portfolio/assets/142488306/8c4281f9-add2-4b30-b070-0715ef63c74d)
+![제목 없는 동영상 - Clipchamp로 제작 (1)](https://github.com/yusuyeon1111/portfolio/assets/142488306/f2eb06b4-19fb-4061-9660-477c28c7c9d0)
 
  #### 8. 관리자 페이지
  ![image](https://github.com/yusuyeon1111/portfolio/assets/142488306/919ebf59-9f54-4013-976c-cf189de56682)
