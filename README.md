@@ -61,7 +61,8 @@
  #### 5. 이미지 업로드 체형 분석 페이지
 ![-Clipchamp6-ezgif com-video-to-gif-converter](https://github.com/yusuyeon1111/portfolio/assets/142488306/275a7a94-302d-44cf-bf7c-bb4875c91fef)
  #### 6. 결과페이지 및 아바타 페이지
- ![-Clipchamp-ezgif com-video-to-gif-converter](https://github.com/yusuyeon1111/portfolio/assets/142488306/3972e13a-692e-49a1-8f01-f69ae48a1a1b)
+![제목 없는 동영상 - Clipchamp로 제작 (2)](https://github.com/yusuyeon1111/portfolio/assets/142488306/48d39fef-468b-41a8-bf2a-b8538254e20b)
+
  #### 7. 사이즈 입력 체형 분석 페이지
 ![제목 없는 동영상 - Clipchamp로 제작 (1)](https://github.com/yusuyeon1111/portfolio/assets/142488306/f2eb06b4-19fb-4061-9660-477c28c7c9d0)
 
