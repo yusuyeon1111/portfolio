@@ -22,7 +22,7 @@
 #### [백엔드](https://github.com/2023-SMHRD-IS-CLOUD-1/Letmein.git)
 
 > Letmein (팀 프로젝트) 
->개발 기간: 2024.2.1 ~ 2024.2.27 (개발중)
+>개발 기간: 2024.2.1 ~ 2024.2.27 
 > 
 > Front-end + Back-end
 > 
@@ -46,7 +46,7 @@
 >  - 고객 센터 페이지 제작 & 모든 기능 구현
 >  - 마이페이지 제작 & 기능 구현
 >  - 관리자 페이지 제작 & 모든 기능 구현
->
+>  - EC2 활용한 Spring Boot, react 배포
 > 
 <div align="center">
 	<P>기술스택</P>
@@ -66,12 +66,30 @@
 ![제목 없는 동영상 - Clipchamp로 제작](https://github.com/yusuyeon1111/portfolio/assets/142488306/e94a754c-fa5c-4b7a-b925-be1531f704f0)
  #### 2. 로그인 / 회원가입
 ![-Clipchamp2-ezgif com-video-to-gif-converter](https://github.com/yusuyeon1111/portfolio/assets/142488306/e8c78fed-0cff-4399-a472-f6997ebfd03c)
+
+[로그인 코드 보러가기](https://github.com/2023-SMHRD-IS-CLOUD-1/Letmein-front/blob/2166e393216249129134d9dae6d1bd3a46d2a41e/src/components/Login.jsx#L9)
+
+[회원가입 코드 보러가기](https://github.com/2023-SMHRD-IS-CLOUD-1/Letmein-front/blob/2166e393216249129134d9dae6d1bd3a46d2a41e/src/components/Join.jsx#L11)
+
  #### 3. 커뮤니티
  ![-Clipchamp3-ezgif com-video-to-gif-converter](https://github.com/yusuyeon1111/portfolio/assets/142488306/b5dfbf08-3f8d-4344-bc32-18f00510663f)
+
+[커뮤니티 코드 보러가기](https://github.com/2023-SMHRD-IS-CLOUD-1/Letmein-front/blob/2166e393216249129134d9dae6d1bd3a46d2a41e/src/components/Community.jsx#L21)
+
+[커뮤니티 최신글 컴포넌트](https://github.com/2023-SMHRD-IS-CLOUD-1/Letmein-front/blob/2166e393216249129134d9dae6d1bd3a46d2a41e/src/components/CommunityMasonry.jsx#L12)
+
+[커뮤니티 인기글 컴포넌트](https://github.com/2023-SMHRD-IS-CLOUD-1/Letmein-front/blob/2166e393216249129134d9dae6d1bd3a46d2a41e/src/components/ComSortMansory.jsx#L12)
+
+[커뮤니티 글 상세보기 컴포넌트](https://github.com/2023-SMHRD-IS-CLOUD-1/Letmein-front/blob/2166e393216249129134d9dae6d1bd3a46d2a41e/src/components/CommunityDetail.jsx#L24)
+ 
  #### 4. 마이페이지
   ![-Clipchamp5-ezgif com-video-to-gif-converter](https://github.com/yusuyeon1111/portfolio/assets/142488306/3d90494b-3cd9-4401-8763-cca21fa97364)
+  
+[마이페이지 코드 보러가기](https://github.com/2023-SMHRD-IS-CLOUD-1/Letmein-front/blob/2166e393216249129134d9dae6d1bd3a46d2a41e/src/components/Mypage.jsx#L13)
+  
  #### 5. 이미지 업로드 체형 분석 페이지
 ![-Clipchamp6-ezgif com-video-to-gif-converter](https://github.com/yusuyeon1111/portfolio/assets/142488306/275a7a94-302d-44cf-bf7c-bb4875c91fef)
+
  #### 6. 결과페이지 및 아바타 페이지
 ![제목 없는 동영상 - Clipchamp로 제작 (2)](https://github.com/yusuyeon1111/portfolio/assets/142488306/48d39fef-468b-41a8-bf2a-b8538254e20b)
 
