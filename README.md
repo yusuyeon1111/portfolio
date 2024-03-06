@@ -60,19 +60,45 @@
  <br/>
  <br/>
 
-- 좋아요 누른 글 목록 확인
-- 3. 고객센터 1:1 문의글 작성
-- 4. 문의글 답변 확인
+#### 핵심 화면
+
+<details>
+    <summary>화면구성 보기</summary>
+<!-- summary 아래 한칸 공백 두고 내용 삽입 -->
+   
+   #### 7-1 메인 페이지
+   ![제목 없는 동영상 - Clipchamp로 제작](https://github.com/yusuyeon1111/portfolio/assets/142488306/e94a754c-fa5c-4b7a-b925-be1531f704f0)
+
+   #### 7-2 회원가입 & 로그인 페이지
+   ![제목 없는 동영상 - Clipchamp로 제작](https://github.com/yusuyeon1111/portfolio/assets/142488306/f06b7c39-26ac-47eb-af1f-bc2d8ed32edc)
+   
+   #### 7-3 커뮤니티 페이지
+ ![-Clipchamp3-ezgif com-video-to-gif-converter](https://github.com/yusuyeon1111/portfolio/assets/142488306/b5dfbf08-3f8d-4344-bc32-18f00510663f)
  
-### 2-5 관리자 페이지 기능
+   #### 7-4 마이페이지 & 고객센터 페이지
+![-Clipchamp5-ezgif com-video-to-gif-converter](https://github.com/yusuyeon1111/portfolio/assets/142488306/3d90494b-3cd9-4401-8763-cca21fa97364)
 
-![제목을-입력해주세요_-018](https://github.com/2023-SMHRD-IS-CLOUD-1/Letmein/assets/142488306/037287cd-f1f6-47db-bee4-ac691fea132d)
+#### 7-5 이미지 업로드 & 체형 분석 결과 페이지
+![제목 없는 동영상 - Clipchamp로 제작 (1)](https://github.com/yusuyeon1111/portfolio/assets/142488306/f3d0c30a-822e-4ffa-9381-7b83d1868d7b)
 
-- 1. 회원탈퇴 기능
-- 2. 답변전 문의글 확인
-- 3. 문의글 답변 기능
+#### 7-6 사이즈 등록 페이지
+![제목 없는 동영상 - Clipchamp로 제작 (1)](https://github.com/yusuyeon1111/portfolio/assets/142488306/f2eb06b4-19fb-4061-9660-477c28c7c9d0)
 
+#### 7-7 아바타 페이지
+![제목 없는 동영상 - Clipchamp로 제작 (3)](https://github.com/yusuyeon1111/portfolio/assets/142488306/7ac9ad8e-718b-4b45-930a-8e6966b6eed4)
+
+#### 7-8 관리자 페이지
+ ![image](https://github.com/yusuyeon1111/portfolio/assets/142488306/919ebf59-9f54-4013-976c-cf189de56682)
+ 
 </details>
+
+
+
+
+
+
+
+
 <details>
 <summary>트러블 슈팅</summary>
 	
