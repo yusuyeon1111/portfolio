@@ -142,8 +142,31 @@
 ```
 
 </details>
+<details>
+	<summary> 4-2 커뮤니티 기능 </summary>
 
-#### 4-2 커뮤니티 기능
+- 1. 무한스크롤로 모바일 환경에 최적화된 페이징 구현
+- 2. 커뮤니티 글 등록
+     - 이미지 업로드 시 S3에 저장
+       
+       ```
+       // aws 이미지 업로드
+    AWS.config.update({
+      accessKeyId: process.env.REACT_APP_CLIENT_ID,
+      secretAccessKey: process.env.REACT_APP_SECRET,
+      region: 'us-east-2'
+    });
+    const s3 = new AWS.S3();
+
+    const uploadParams = {
+      Bucket: 'letmein0229',
+      Key: `folder/${user_id}${date}/${imgRef.current.files[0].name}`,
+      Body: img
+    };
+       ```
+  
+</details>
+
 
 
 ### 5. 트러블 슈팅
