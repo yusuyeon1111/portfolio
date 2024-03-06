@@ -46,8 +46,8 @@
 >  - 고객 센터 페이지 제작 & 모든 기능 구현
 >  - 마이페이지 제작 & 기능 구현
 >  - 관리자 페이지 제작 & 모든 기능 구현
->  - EC2 활용한 Spring Boot, react 배포
-> 
+>
+
 <div align="center">
 	<P>기술스택</P>
 	<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
