@@ -95,6 +95,9 @@
 ### 4. 담당 기능
 <details>
 	<summary>기능 펼치기</summary>
+
+ [회원 관련 boot 코드](https://github.com/2023-SMHRD-IS-CLOUD-1/Letmein/blob/e8a4241aaa4c41dcea771e42f66afafe000098de/Letmein/src/main/java/com/smhrd/controller/MemController.java#L30)
+ 
 	<details>
 		<summary> 4-1. 로그인 / 회원가입 기능 </summary>
 
@@ -145,7 +148,7 @@
 <details>
 	<summary> 4-2 커뮤니티 기능 </summary>
 	
-[boot 코드](https://github.com/2023-SMHRD-IS-CLOUD-1/Letmein/blob/e8a4241aaa4c41dcea771e42f66afafe000098de/Letmein/src/main/java/com/smhrd/controller/PostController.java#L35))
+[커뮤니티 관련 boot 코드](https://github.com/2023-SMHRD-IS-CLOUD-1/Letmein/blob/e8a4241aaa4c41dcea771e42f66afafe000098de/Letmein/src/main/java/com/smhrd/controller/PostController.java#L35)
 
 - 1. 무한스크롤로 모바일 환경에 최적화된 페이징 구현
 - 2. 커뮤니티 글 등록
@@ -261,7 +264,20 @@
 
 </details>
 
+<details>
+	<summary> 4-4. 마이페이지 기능 </summary>
+	- 프로필 수정
+	- 고객센터
+	- 작성 글 조회
+	- 좋아요 글 조회
+	
+</details>
 
+<details>
+	<summary> 관리자 페이지 기능 </summary>
+	- 회원 탈퇴 기능
+	- 문의글 조회 및 답변 작성 기능
+</details>
 
 ### 5. 트러블 슈팅
 
