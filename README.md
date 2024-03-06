@@ -115,6 +115,26 @@
 - 회원가입 시 Spring Security를 사용해 비밀번호 암호화 구현
 - 로그인 시 db에 저장된 암호화된 비밀번호와 사용자가 입력한 비밀번호와 비교하여 일치할 시 로그인 성공하게 구현
 
+- 이메일 인증 기능
+  
+  ![image](https://github.com/yusuyeon1111/portfolio/assets/142488306/d83308f7-1e8a-4e67-a1b4-5cac6140ea8e)
+
+  - emailjs 라이브러리를 사용해 회원가입시 리액트에서 인증메일을 전송함.
+    ```
+      // 이메일 전송
+  const handleGenerateMessage = () => {
+    const newMessage = generateMessage();
+    setMsg(newMessage);
+    sendEmail(user_email, user_name, newMessage)
+      .then((res) => {
+        setIsEmailSent(true);
+        console.log(msg)
+      })
+      .catch((error) => {
+        console.error('이메일 전송 실패', error);
+      });
+  };
+    ```
 
 
 #### 4-2 커뮤니티 기능
