@@ -121,9 +121,10 @@
 
 - 이메일 인증 기능
   
-  ![image](https://github.com/yusuyeon1111/portfolio/assets/142488306/d83308f7-1e8a-4e67-a1b4-5cac6140ea8e)
+ ![제목을-입력해주세요_-001 (6)](https://github.com/yusuyeon1111/portfolio/assets/142488306/c88f3dfc-2ed0-4c48-a3ac-4acbbe8579dd)
 
   - emailjs 라이브러리를 사용해 회원가입시 리액트에서 인증메일을 전송함.
+  - 인증번호가 일치해야만 회원가입 가능
 
 ```
   const handleGenerateMessage = () => {
@@ -144,7 +145,7 @@
 
 #### 4-2 커뮤니티 기능
 
-</details>
+
 ### 5. 트러블 슈팅
 
 <details>
