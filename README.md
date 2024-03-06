@@ -100,6 +100,20 @@
  ![image](https://github.com/yusuyeon1111/portfolio/assets/142488306/919ebf59-9f54-4013-976c-cf189de56682)
 
 </details>
+
+- 좋아요 누른 글 목록 확인
+- 3. 고객센터 1:1 문의글 작성
+- 4. 문의글 답변 확인
+ 
+### 2-5 관리자 페이지 기능
+
+![제목을-입력해주세요_-018](https://github.com/2023-SMHRD-IS-CLOUD-1/Letmein/assets/142488306/037287cd-f1f6-47db-bee4-ac691fea132d)
+
+- 1. 회원탈퇴 기능
+- 2. 답변전 문의글 확인
+- 3. 문의글 답변 기능
+
+</details>
 <details>
 <summary>트러블 슈팅</summary>
 	
