@@ -88,7 +88,7 @@
 [마이페이지 코드 보러가기](https://github.com/2023-SMHRD-IS-CLOUD-1/Letmein-front/blob/2166e393216249129134d9dae6d1bd3a46d2a41e/src/components/Mypage.jsx#L13)
   
  #### 5. 이미지 업로드 체형 분석 페이지
-![-Clipchamp6-ezgif com-video-to-gif-converter](https://github.com/yusuyeon1111/portfolio/assets/142488306/275a7a94-302d-44cf-bf7c-bb4875c91fef)
+![제목 없는 동영상 - Clipchamp로 제작 (1)](https://github.com/yusuyeon1111/portfolio/assets/142488306/f3d0c30a-822e-4ffa-9381-7b83d1868d7b)
 
  #### 6. 결과페이지 및 아바타 페이지
 ![제목 없는 동영상 - Clipchamp로 제작 (2)](https://github.com/yusuyeon1111/portfolio/assets/142488306/48d39fef-468b-41a8-bf2a-b8538254e20b)
