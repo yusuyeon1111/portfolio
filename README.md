@@ -94,12 +94,10 @@
 
 ### 4. 담당 기능
 <details>
-	<summary>기능 펼치기</summary>
+	<summary> 4-1. 로그인 / 회원가입 기능 </summary>
 
  [회원 관련 boot 코드](https://github.com/2023-SMHRD-IS-CLOUD-1/Letmein/blob/e8a4241aaa4c41dcea771e42f66afafe000098de/Letmein/src/main/java/com/smhrd/controller/MemController.java#L30)
  
-	<details>
-		<summary> 4-1. 로그인 / 회원가입 기능 </summary>
 
 ```
 // 회원가입
@@ -146,7 +144,7 @@
 
 </details>
 <details>
-	<summary> 4-2 커뮤니티 기능 </summary>
+	<summary> 4-2. 커뮤니티 기능 </summary>
 	
 [커뮤니티 관련 boot 코드](https://github.com/2023-SMHRD-IS-CLOUD-1/Letmein/blob/e8a4241aaa4c41dcea771e42f66afafe000098de/Letmein/src/main/java/com/smhrd/controller/PostController.java#L35)
 
@@ -274,7 +272,7 @@
 </details>
 
 <details>
-	<summary> 관리자 페이지 기능 </summary>
+	<summary> 4-5. 관리자 페이지 기능 </summary>
 	- 회원 탈퇴 기능
 	- 문의글 조회 및 답변 작성 기능
 </details>
