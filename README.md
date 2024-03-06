@@ -143,7 +143,9 @@
 
 </details>
 <details>
-	<summary> [4-2 커뮤니티 기능](https://github.com/2023-SMHRD-IS-CLOUD-1/Letmein/blob/e8a4241aaa4c41dcea771e42f66afafe000098de/Letmein/src/main/java/com/smhrd/controller/PostController.java#L35) </summary>
+	<summary> 4-2 커뮤니티 기능 </summary>
+	
+[boot 코드](https://github.com/2023-SMHRD-IS-CLOUD-1/Letmein/blob/e8a4241aaa4c41dcea771e42f66afafe000098de/Letmein/src/main/java/com/smhrd/controller/PostController.java#L35))
 
 - 1. 무한스크롤로 모바일 환경에 최적화된 페이징 구현
 - 2. 커뮤니티 글 등록
