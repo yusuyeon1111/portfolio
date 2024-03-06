@@ -147,10 +147,10 @@
 
 - 1. 무한스크롤로 모바일 환경에 최적화된 페이징 구현
 - 2. 커뮤니티 글 등록
-     - 이미지 업로드 시 S3에 저장
-       
-       ```
-       // aws 이미지 업로드
+     - 이미지 업로드 시 S3에 저장  후 spring boot에 전송해 db에 등록함
+
+```
+          // aws 이미지 업로드
     AWS.config.update({
       accessKeyId: process.env.REACT_APP_CLIENT_ID,
       secretAccessKey: process.env.REACT_APP_SECRET,
@@ -163,10 +163,78 @@
       Key: `folder/${user_id}${date}/${imgRef.current.files[0].name}`,
       Body: img
     };
-       ```
-  
+
+    s3.upload(uploadParams, (err, data) => {
+      if (err) {
+        console.error(err);
+      } else {
+        console.log(data);
+        // spring boot -> db에 저장 
+        axios.post("letmein/post", {
+          post_title: title,
+          post_content: content,
+          post_acc: acc,
+          post_top: top,
+          post_pants: pants,
+          post_shoe: shoe,
+          user_id: user_id,
+          post_imgsrc: `https://d1nypumamskciu.cloudfront.net/folder/${user_id}${date}/${imgRef.current.files[0].name}`
+        }).then((res) => {
+          console.log(res);
+          nav("/community")
+        }).catch((error) => {
+          console.error(error);
+        });
+      }
+    });
+  };
+```
+- 3. 글 상세보기 기능 구현
+     - 좋아요 기능
+     - 본인 글 일시 수정, 삭제 기능 구현
+
 </details>
 
+<details>
+	<summary> 4-3. 체형분석 & 아바타 페이지 </summary>
+
+ - 이미지 업로드 시 s3에 이미지를 업로드
+- 업로드 성공시 해당 이미지 url을 flask에 전송해 분석된 성별과 체형 정보를 받아와 저장하도록 구현함.
+   
+```
+// 이미지 업로드 후 분석 실행 
+      AWS.config.update({
+        accessKeyId: process.env.REACT_APP_CLIENT_ID,
+        secretAccessKey: process.env.REACT_APP_SECRET,
+        region: 'us-east-2'
+      });
+      const s3 = new AWS.S3();
+  
+      const uploadParams = {
+        Bucket: 'letmein0229',
+        Key: "img.jpg",
+        Body: img
+      };
+  
+      s3.upload(uploadParams, (err, data) => {
+        if (err) {
+          console.error(err);
+        } else {
+          //파이썬 요청
+          axios.post("/upload")
+          .then((res) => {
+	// 성별
+            setGender(res.data.gender)
+	// 체형
+            setType(res.data.body)
+          setSuc(true)
+      }).catch((err)=>{
+        console.error('분석에러',err)
+      })
+      }
+      });
+```
+</details>
 
 
 ### 5. 트러블 슈팅
