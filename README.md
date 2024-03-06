@@ -65,7 +65,7 @@
   #### 1. 메인 페이지
 ![제목 없는 동영상 - Clipchamp로 제작](https://github.com/yusuyeon1111/portfolio/assets/142488306/e94a754c-fa5c-4b7a-b925-be1531f704f0)
  #### 2. 로그인 / 회원가입
-![-Clipchamp2-ezgif com-video-to-gif-converter](https://github.com/yusuyeon1111/portfolio/assets/142488306/e8c78fed-0cff-4399-a472-f6997ebfd03c)
+![제목 없는 동영상 - Clipchamp로 제작](https://github.com/yusuyeon1111/portfolio/assets/142488306/f06b7c39-26ac-47eb-af1f-bc2d8ed32edc)
 
 [로그인 코드 보러가기](https://github.com/2023-SMHRD-IS-CLOUD-1/Letmein-front/blob/2166e393216249129134d9dae6d1bd3a46d2a41e/src/components/Login.jsx#L9)
 
