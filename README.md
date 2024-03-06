@@ -18,8 +18,8 @@
 
 ---
 
-### 1. [실전 프로젝트](https://github.com/2023-SMHRD-IS-CLOUD-1/Letmein-front)
-#### [백엔드](https://github.com/2023-SMHRD-IS-CLOUD-1/Letmein.git)
+## 1. [실전 프로젝트](https://github.com/2023-SMHRD-IS-CLOUD-1/Letmein-front)
+### [백엔드](https://github.com/2023-SMHRD-IS-CLOUD-1/Letmein.git)
 
 > Letmein (팀 프로젝트) 
 >개발 기간: 2024.2.1 ~ 2024.2.27 
@@ -30,14 +30,14 @@
 > 
 > 팀원 3명 (PM, 모델링, Front-end+Back-end)
 > 
-#### 프로젝트 설명
+### 1. 프로젝트 설명
 > 
 > - YOLO기반 체형확인 및 패션 스타일러 입니다
 > - 커뮤니티에 코디 사진을 업로드 할 수 있습니다!
 > - 체형 사진을 업로드해 체형 기반 아바타를 생성해 코디를 해볼 수 있습니다!
 > - 사진대신 사이즈를 입력한 아바타 생성도 가능합니다!
 >
-####  구현내용
+### 2. 구현내용
 >  - aws s3 이미지 업로드 기능
 >  - spring boot security를 활용한 비밀번호 암호화 구현
 >  - 메인페이지 제작
@@ -60,7 +60,7 @@
  <br/>
  <br/>
 
-#### 핵심 화면
+### 3. 핵심 화면
 
 <details>
     <summary>화면구성 보기</summary>
@@ -92,12 +92,35 @@
  
 </details>
 
+### 4. 담당 기능
+
+#### 4-1. 로그인 / 회원가입 기능
+```
+// 회원가입
+@PostMapping("/join")
+	public void join(@RequestBody MemberDTO dto) {
+		dto.incode(dto.getUser_pw());
+		memberService.MemberJoin(dto);
+	}
+// 로그인 	
+	@PostMapping("/login")
+	public MemberDTO login(@RequestBody MemberDTO dto) {
+		MemberDTO login = memberService.MemberLogin(dto);
+		if(login != null && passwordEncoder.matches(dto.getUser_pw(), login.getUser_pw())) {
+			return login;
+		}
+		return null;
+	}
+```
+- 회원가입 시 Spring Security를 사용해 비밀번호 암호화 구현
+- 로그인 시 db에 저장된 암호화된 비밀번호와 사용자가 입력한 비밀번호와 비교하여 일치할 시 로그인 성공하게 구현
 
 
 
+#### 4-2 커뮤니티 기능
 
 
-
+### 5. 트러블 슈팅
 
 <details>
 <summary>트러블 슈팅</summary>
@@ -162,7 +185,7 @@ useInview를 활용하여 페이지 끝에 도달할 시 페이지 넘버를 증
 
 ---
 
-### 2. [핵심 프로젝트](https://github.com/2023-SMHRD-IS-CLOUD-1/1stProject.git)
+## 2. [핵심 프로젝트](https://github.com/2023-SMHRD-IS-CLOUD-1/1stProject.git)
 >HEF  (팀 프로젝트)  
 >개발 기간: 2023.11.22 ~ 2023.12.8
 >
