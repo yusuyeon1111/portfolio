@@ -4,7 +4,7 @@
 </br>
 
 ## :pushpin: Intro
-- Front-end 개발자를 희망합니다
+- Back-end 개발자를 희망합니다
 
 </br>
 
